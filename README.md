@@ -1,5 +1,5 @@
 # Machine Learning with Spark on Google Cloud Dataproc
-This is a project based on Spark interactive shell on a Google Cloud Dataproc cluster.
+This is a project based on Spark interactive shell on a Google Cloud Dataproc cluster. Code in main.py just demonstrate the commands while pyspark is launched.
 ***
 In this project, I   
 create a training dataset for machine learning using Spark.  
