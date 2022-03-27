@@ -6,3 +6,4 @@ create a training dataset for machine learning using Spark.
 Develop a logistic regression machine learning model using Spark.    
 Evaluate the predictive behavior of a machine learning model using Spark on Google Cloud Datalab. 
 
+https://youtu.be/KPW_vcIQelw
